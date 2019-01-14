@@ -1,6 +1,6 @@
 {
 	"channelCacheSize": 75000,
-	"crawlLimit": 12000,
+	"crawlLimit": 6000,
 	"crawlThreshold": 50,
 	"idCacheSize": 500000,
 	"invidious": "http://localhost:3000",
